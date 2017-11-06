@@ -1,0 +1,14 @@
+scipy>=0.13.3
+numpy>=1.8.2
+scikit-learn>=0.19b2
+matplotlib>=2.0
+pydotplus>=2.0.2
+tensorflow>=1.3.0rc1
+pandas>=0.20.3
+tflearn>=0.3.2
+seaborn>=0.8
+pygraphviz>=1.4rc1
+networkx>=2.0b1
+mlxtend>=0.7.0
+astroML>=0.3
+astropy>=2.0.1
